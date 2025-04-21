@@ -1,4 +1,4 @@
-FROM node:alpine@sha256:cf40424687c3bb932a34ab852198ed4df96eca0b052b61b0ddf43f5fd9684bde
+FROM node:alpine@sha256:86703151a18fcd06258e013073508c4afea8e19cd7ed451554221dd00aea83fc
 
 WORKDIR /usr/src/app
 COPY package.json .
